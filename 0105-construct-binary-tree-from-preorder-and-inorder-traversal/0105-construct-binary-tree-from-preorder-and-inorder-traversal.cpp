@@ -20,6 +20,10 @@ public:
         }
         return -1;
     }
+
+
+    //If we passed preOrderIndex by value, each recursive call would get a copy, and the changes (like preOrderIndex++) wouldn't affect other calls.
+    //By passing it by reference, all recursive calls share and update the same index, progressing through preorder correctly.
     TreeNode* constructTree( vector<int>& preorder, vector<int>& inorder, int &preOrderIndex, int inorderStart, 
     int inorderEnd, int size) {
         //base case
