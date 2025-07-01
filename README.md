@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
