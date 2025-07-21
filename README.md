@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0065-valid-number) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hritvik715/DSA_PART_2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hritvik715/DSA_PART_2/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hritvik715/DSA_PART_2/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hritvik715/DSA_PART_2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
