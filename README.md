@@ -8,16 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hritvik715/DSA_PART_2/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/hritvik715/DSA_PART_2/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hritvik715/DSA_PART_2/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/hritvik715/DSA_PART_2/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hritvik715/DSA_PART_2/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/hritvik715/DSA_PART_2/tree/master/0113-path-sum-ii) |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hritvik715/DSA_PART_2/tree/master/0002-add-two-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/hritvik715/DSA_PART_2/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
