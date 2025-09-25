@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hritvik715/DSA_PART_2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hritvik715/DSA_PART_2/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hritvik715/DSA_PART_2/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hritvik715/DSA_PART_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hritvik715/DSA_PART_2/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
