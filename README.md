@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/hritvik715/DSA_PART_2/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/hritvik715/DSA_PART_2/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/hritvik715/DSA_PART_2/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hritvik715/DSA_PART_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hritvik715/DSA_PART_2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hritvik715/DSA_PART_2/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/hritvik715/DSA_PART_2/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/hritvik715/DSA_PART_2/tree/master/0120-triangle) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hritvik715/DSA_PART_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hritvik715/DSA_PART_2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/hritvik715/DSA_PART_2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hritvik715/DSA_PART_2/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
