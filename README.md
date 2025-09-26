@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hritvik715/DSA_PART_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hritvik715/DSA_PART_2/tree/master/0160-intersection-of-two-linked-lists) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hritvik715/DSA_PART_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0065-valid-number) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hritvik715/DSA_PART_2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hritvik715/DSA_PART_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/hritvik715/DSA_PART_2/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
