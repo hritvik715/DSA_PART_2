@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hritvik715/DSA_PART_2/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/hritvik715/DSA_PART_2/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/hritvik715/DSA_PART_2/tree/master/0279-perfect-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hritvik715/DSA_PART_2/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/hritvik715/DSA_PART_2/tree/master/0279-perfect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hritvik715/DSA_PART_2/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/hritvik715/DSA_PART_2/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/hritvik715/DSA_PART_2/tree/master/0120-triangle) |
+| [0279-perfect-squares](https://github.com/hritvik715/DSA_PART_2/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
 | ------- |
