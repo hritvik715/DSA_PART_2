@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hritvik715/DSA_PART_2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/hritvik715/DSA_PART_2/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/hritvik715/DSA_PART_2/tree/master/0115-distinct-subsequences) |
+| [0290-word-pattern](https://github.com/hritvik715/DSA_PART_2/tree/master/0290-word-pattern) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hritvik715/DSA_PART_2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
