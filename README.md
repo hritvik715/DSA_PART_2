@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hritvik715/DSA_PART_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/hritvik715/DSA_PART_2/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/hritvik715/DSA_PART_2/tree/master/0115-distinct-subsequences) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hritvik715/DSA_PART_2/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/hritvik715/DSA_PART_2/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/hritvik715/DSA_PART_2/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 ## Binary Search
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/hritvik715/DSA_PART_2/tree/master/0043-multiply-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hritvik715/DSA_PART_2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
