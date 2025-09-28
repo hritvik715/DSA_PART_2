@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/hritvik715/DSA_PART_2/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/hritvik715/DSA_PART_2/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/hritvik715/DSA_PART_2/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -137,6 +138,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hritvik715/DSA_PART_2/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/hritvik715/DSA_PART_2/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/hritvik715/DSA_PART_2/tree/master/0120-triangle) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hritvik715/DSA_PART_2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
