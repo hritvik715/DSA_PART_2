@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hritvik715/DSA_PART_2/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hritvik715/DSA_PART_2/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/hritvik715/DSA_PART_2/tree/master/0907-koko-eating-bananas) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hritvik715/DSA_PART_2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hritvik715/DSA_PART_2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hritvik715/DSA_PART_2/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hritvik715/DSA_PART_2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Stack
 |  |
 | ------- |
