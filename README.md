@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hritvik715/DSA_PART_2/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hritvik715/DSA_PART_2/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/hritvik715/DSA_PART_2/tree/master/0036-valid-sudoku) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hritvik715/DSA_PART_2/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hritvik715/DSA_PART_2/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/hritvik715/DSA_PART_2/tree/master/0061-rotate-list) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hritvik715/DSA_PART_2/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/hritvik715/DSA_PART_2/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
