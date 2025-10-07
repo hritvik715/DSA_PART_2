@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hritvik715/DSA_PART_2/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/hritvik715/DSA_PART_2/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/hritvik715/DSA_PART_2/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/hritvik715/DSA_PART_2/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/hritvik715/DSA_PART_2/tree/master/0290-word-pattern) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hritvik715/DSA_PART_2/tree/master/0062-unique-paths) |
+| [0087-scramble-string](https://github.com/hritvik715/DSA_PART_2/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/hritvik715/DSA_PART_2/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/hritvik715/DSA_PART_2/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/hritvik715/DSA_PART_2/tree/master/0120-triangle) |
