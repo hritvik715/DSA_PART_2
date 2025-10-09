@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/hritvik715/DSA_PART_2/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0287-find-the-duplicate-number) |
 | [0561-array-partition](https://github.com/hritvik715/DSA_PART_2/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/hritvik715/DSA_PART_2/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hritvik715/DSA_PART_2/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/hritvik715/DSA_PART_2/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/hritvik715/DSA_PART_2/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hritvik715/DSA_PART_2/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -102,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/hritvik715/DSA_PART_2/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
