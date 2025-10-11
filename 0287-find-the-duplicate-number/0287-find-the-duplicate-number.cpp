@@ -25,3 +25,9 @@ public:
 //  Iteration 3 → num = 3
 //  freq = { 1 : 1 , 3 : 2 }  ← duplicate found here!
 //  return 3
+
+// Key : Value
+// 1 : Alice
+// 3 : Bob
+// 4 : Charlie
+// If we access map[3] → it traverses the tree → finds key 3 → returns "Bob".
