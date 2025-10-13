@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hritvik715/DSA_PART_2/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hritvik715/DSA_PART_2/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/hritvik715/DSA_PART_2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hritvik715/DSA_PART_2/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/hritvik715/DSA_PART_2/tree/master/0057-insert-interval) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/hritvik715/DSA_PART_2/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0287-find-the-duplicate-number) |
