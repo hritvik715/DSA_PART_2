@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hritvik715/DSA_PART_2/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/hritvik715/DSA_PART_2/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hritvik715/DSA_PART_2/tree/master/0724-find-pivot-index) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/hritvik715/DSA_PART_2/tree/master/0907-koko-eating-bananas) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hritvik715/DSA_PART_2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0287-find-the-duplicate-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/hritvik715/DSA_PART_2/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
