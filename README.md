@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hritvik715/DSA_PART_2/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/hritvik715/DSA_PART_2/tree/master/0907-koko-eating-bananas) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hritvik715/DSA_PART_2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hritvik715/DSA_PART_2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hritvik715/DSA_PART_2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/hritvik715/DSA_PART_2/tree/master/0290-word-pattern) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hritvik715/DSA_PART_2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/hritvik715/DSA_PART_2/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/hritvik715/DSA_PART_2/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/hritvik715/DSA_PART_2/tree/master/0290-word-pattern) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hritvik715/DSA_PART_2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hritvik715/DSA_PART_2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/hritvik715/DSA_PART_2/tree/master/0561-array-partition) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hritvik715/DSA_PART_2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
