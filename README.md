@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/hritvik715/DSA_PART_2/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hritvik715/DSA_PART_2/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
