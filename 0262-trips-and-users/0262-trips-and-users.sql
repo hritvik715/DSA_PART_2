@@ -3,10 +3,10 @@ SELECT
     t.request_at AS Day,
     ROUND(
     SUM(CASE 
-          WHEN t.status IN ('cancelled_by_driver', 'cancelled_by_client') 
-          THEN 1 
-          ELSE 0 
-        END)
+            WHEN t.status IN ('cancelled_by_driver', 'cancelled_by_client') 
+            THEN 1 
+            ELSE 0 
+            END)
     / COUNT(*), 2
   ) AS `Cancellation Rate`
 FROM Trips t
