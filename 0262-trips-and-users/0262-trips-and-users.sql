@@ -1,9 +1,9 @@
 # Write your MySQL query statement below
 SELECT 
-    t.request_at AS Day,
-    ROUND(
-    SUM(CASE 
-        WHEN t.status IN ('cancelled_by_driver', 'cancelled_by_client') 
+t.request_at AS Day,
+ROUND(
+SUM(CASE 
+WHEN t.status IN ('cancelled_by_driver', 'cancelled_by_client') 
         THEN 1 
         ELSE 0 
         END)
