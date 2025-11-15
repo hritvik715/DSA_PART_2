@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/hritvik715/DSA_PART_2/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hritvik715/DSA_PART_2/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/hritvik715/DSA_PART_2/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0287-find-the-duplicate-number) |
 | [0561-array-partition](https://github.com/hritvik715/DSA_PART_2/tree/master/0561-array-partition) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hritvik715/DSA_PART_2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hritvik715/DSA_PART_2/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/hritvik715/DSA_PART_2/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/hritvik715/DSA_PART_2/tree/master/0290-word-pattern) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hritvik715/DSA_PART_2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hritvik715/DSA_PART_2/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/hritvik715/DSA_PART_2/tree/master/0561-array-partition) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hritvik715/DSA_PART_2/tree/master/1353-find-resultant-array-after-removing-anagrams) |
