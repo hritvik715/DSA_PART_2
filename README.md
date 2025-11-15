@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hritvik715/DSA_PART_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/hritvik715/DSA_PART_2/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/hritvik715/DSA_PART_2/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/hritvik715/DSA_PART_2/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/hritvik715/DSA_PART_2/tree/master/0079-word-search) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hritvik715/DSA_PART_2/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/hritvik715/DSA_PART_2/tree/master/0010-regular-expression-matching) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/hritvik715/DSA_PART_2/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/hritvik715/DSA_PART_2/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/hritvik715/DSA_PART_2/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/hritvik715/DSA_PART_2/tree/master/0097-interleaving-string) |
